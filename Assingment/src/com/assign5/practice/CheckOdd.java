@@ -4,7 +4,7 @@ public class CheckOdd {
 	
 	void check()
 	{
-		int a=103;
+		int a=100;
 		if(a%2==0)
 		{
 			
